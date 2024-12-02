@@ -1,0 +1,85 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	background-color:#5cb4e0;
+}
+.header{
+	width:100%;
+	height:55px;
+}
+.first{
+	width:3%;
+	float:left;
+	padding-left:0.3%;
+	padding-top:0.2%;
+}
+.second{
+	width:90%;
+	float:left;
+	padding:0.8%;
+	font-size:25px;
+	font-style:italic;
+	font-weight:bold;
+}
+
+.span1{
+	color:rgb(236, 53, 13);
+}
+.u1{
+    padding-top: 1%;
+    width: 100%;
+    height: 70px;
+}
+.us1{
+    width: 80%;
+    float: left;
+}
+.logout1{
+  width: 20%;
+  padding-top: 0.5%;
+  float: left;
+  text-align: center;
+}
+.lg1{
+    height: 30px;
+    width: 100px;
+    background-color:rgb(225, 213, 204);
+    color:black;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.addhostel{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(225, 213, 204);
+    color:black;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.btn{
+    padding-right: 30px ;
+    text-align: center;
+}
+.box{
+    background-color: lightgrey;
+    width: 700px;
+    border-radius: 9px;
+    border: 2px solid black;
+    padding: 30px;
+    margin: 20px;
+    height: 15px;
+    text-align:center;
+    font-size:xx-large;
+    
+  }
+.hostel{
+    float: center;
+    padding-left: 23%;
+    
+  }
+a {
+    color: #0060B6;
+    text-decoration: none;
+}

@@ -1,0 +1,214 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	background-color:#5cb4e0;
+}
+.header{
+	width:100%;
+	height:55px;
+}
+.first{
+	width:3%;
+	float:left;
+	padding-left:0.3%;
+	padding-top:0.2%;
+}
+.second{
+	width:90%;
+	float:left;
+	padding:0.8%;
+	font-size:25px;
+	font-style:italic;
+	font-weight:bold;
+}
+
+.span1{
+	color:rgb(236, 53, 13);
+    padding-left: 1.6%;
+}
+h1{
+	padding-left:8px;
+	padding-top:5px;
+}
+h2{
+	padding-left:4px;
+	
+}
+.addhostel{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(225, 213, 204);
+    color:black;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.btn{
+    padding-right: 30px ;
+    text-align: center;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(30, 62, 135);
+    padding: px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: black;
+}
+.navbar li{
+    float: right;
+}
+.dropdown {
+    float: right;
+    overflow: hidden;
+    padding-top: 1%;
+  }
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .dropdown .dropbtn:hover{
+    background-color: black;
+}
+ .navbar .hname{
+    float: left;
+    padding-bottom: 0.3%;
+    padding-top: 0.3%;
+    padding-left: 1%;
+    color: white;
+    font-weight: bolder;
+  }
+.dropdown-content {
+    display: none;
+    border-radius: 3%;
+    padding-right: 2%;
+    position: absolute;
+    background-color: grey;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  .dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    
+    background-color: inherit;
+    font-family: inherit; /* Important for vertical align on mobile phones */
+    margin: 0; /* Important for vertical align on mobile phones */
+  }
+.lg1{
+    height: 30px;
+    width: 100px;
+    background-color:rgb(225, 213, 204);
+    color:black;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.box{
+    background-color: lightgrey;
+    width: 700px;
+    border-radius: 9px;
+    border: 2px solid black;
+    padding: 30px;
+    margin: 20px;
+    height: 15px;
+    text-align:center;
+    font-size:xx-large;
+    
+  }
+.hostel{
+    float: center;
+    padding-left: 23%;
+    
+  }
+a {
+    color: #0060B6;
+    text-decoration: none;
+}
+.place{
+  width: 100%;
+}
+.place1{
+  width: 40%;
+  float: left;
+}
+.loc1{
+	width: 32px;
+  height: 30px;
+	padding-left: 1.7%;
+	padding-top: 1%;
+  float: left;
+  padding-top: 1.6%;
+
+}
+.loc{
+  padding-top: 2%;
+  width: 50%;
+  padding-left: 2%;
+  font-weight: bolder;
+  font-size: 20px;
+}
+.phone{
+  width: 58%;
+  height: 42.3px;
+  padding-top: 0.3%;
+  float: left;
+}
+.icon{
+  float: left;
+  padding-left: 86.3%;
+  padding-top: 1.1%;
+}
+.number{
+  float:right;
+  padding-top: 1%;
+  padding-right: 1%;
+}
+.section{
+  width: 100%;
+}
+.section1{
+  width: 65%;
+  float: left;
+}
+.rent{
+  height: 160px;
+  border: 3px solid green;
+  padding-left: 1%;
+  padding-top: 1%;
+  margin: 20px;
+  border-radius:2% ;
+}
+.food{
+height: 180px;
+border: 3px solid green;
+padding-top: 1%;
+border-radius: 4%;
+padding-left: 1%;
+margin: 20px;
+}
+.section2{
+  width: 27%;
+  padding-left: 1%;
+  border: 3px solid green;
+  border-radius: 4%;
+  height: 415px;
+  padding-top: 1%;
+  float: left;
+  margin: 20px;
+}
+.note{
+	color:red;
+	width:20px;
+}

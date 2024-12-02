@@ -1,0 +1,43 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	background-color:#5cb4e0;
+}
+
+.header{
+	width:100%;
+	height:60px;
+}
+.first{
+	width:3%;
+	float:left;
+	padding-left:0.3%;
+	padding-top:0.2%;
+}
+.second{
+	width:90%;
+	float:left;
+	padding:0.8%;
+	font-size:25px;
+	font-style:italic;
+	font-weight:bold;
+}
+.sideheading{
+	height:5px;
+	padding-top:0.4%;
+}
+.button{
+	 height: 17%;
+   width: 8%;
+   border-radius: 8px;
+   border: none;
+   text-align:center;
+  /* justify-content: center;*/
+   font-style:bold;
+   font-size: 25px;
+   font-weight: 700;
+   letter-spacing: 1px;
+   
+}
